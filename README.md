@@ -4,7 +4,7 @@ Super Siri is a groundbreaking audio analysis application that helps users manag
 
 ## What it Does
 
-SuperSiri takes in audio data and analyzes them to create a set of to-do lists and project tracking for work performance purposes. The audio data is first collected with a wireless mic, and then stored in our database. Using an AI API, it can analyze and develop context for the user, then generate a to-do list based on their needs exhibited from their conversation.
+SuperSiri takes in audio data and analyzes them to create a set of to-do lists and project tracking for work performance purposes. The audio data is first collected with a wireless mic, and then stored in our database. Using an LLM endpoint, it can analyze and develop context for the user, then generate a to-do list based on their needs exhibited from their conversation.
 
 ## Features
 
