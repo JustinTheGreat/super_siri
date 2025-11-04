@@ -117,16 +117,6 @@ A novel approach of connecting a Raspberry PI 0w to a rPI microphone and a LCD s
 
 To start off, we did attempt to use a Raspberry Pi 0w for wearable technology for the user to use to make it easy to record. Due to unforeseen circumstances, we missed a few wires that are crucial to a steady connection with the rPi. After overcoming that, we had a lot of problems with performance issues such as program efficiency and latency since the rPi 0w was a minimal computer. We still made it work in the end. Due to these technical difficulties, we had to constantly update our front end. Therefore, as of time of submission, we are still endeavoring to keep a consistent set of front end features.
 
-## What We Learned
-
-After going through a 36 hour hackathon, we've learned a few heartfelt things:
-
-- Don't overstretch your team, allocate sufficient sleep
-- Focus on creating the core, minimal viable product
-- Don't overengineer basic steps
-- Raspberry Pi 0w is a bit slow for most applications
-- Don't compete in spicy ramen eating contests
-
 ## What's Next?
 
 Super Siri is definitely what we think is one of the greatest projects we made, though there are a few features we would love to get to if we had more time to work on it. A few of these features are:
